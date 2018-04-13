@@ -36,6 +36,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+# Module 1
+## 1.3.2.b.3 Measurements of Laser Cut and 3D printed parts
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ### Pinball Dimensions:
   - Plunger rod: length, 8 in; dia 8 mm
   - Playbed: 20" x 12"
